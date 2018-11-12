@@ -2,5 +2,8 @@ runtime: php55
 api_version: 1
 threadsafe: true
 handlers:
-- url: /.*
+- url: /hello
   script: helloworld.php
+  
+ - url: /html
+  static_dir: html
