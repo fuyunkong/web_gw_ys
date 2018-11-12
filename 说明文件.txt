@@ -1,0 +1,32 @@
+
+
+
+http://www.shandagames.com/cn/privacy
+
+
+
+dev_appserver.py     --php_executable_path=/usr/bin/php-cgi     $PWD
+
+
+
+访问地址
+https://aiplay-magic-cat.appspot.com/
+
+
+示例地址
+https://github.com/GoogleCloudPlatform/appengine-try-php
+
+
+ssh控制台地址
+https://console.cloud.google.com/cloudshell/editor?project=aiplay-magic-cat&shellonly=true&fromcloudshell=true
+
+
+git clone https://github.com/fuyunkong/web_gw_ys.git
+cd web_gw_ys
+
+
+git pull origin  master
+
+
+部署
+gcloud app deploy
