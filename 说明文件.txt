@@ -55,5 +55,24 @@ MAGIC CAT
 公司：霍尔果斯美影网络科技有限公司
 
 
+https://console.cloud.google.com/cloudshell/environment/view?project=aiplay-website&serviceId=default&duration=PT1H&fromcloudshell=true
+
+克隆
+git clone -b magic_cat https://github.com/fuyunkong/web_gw_ys.git
+
+路径
+cd /home/fuyunkong/web_gw_ys_magic_cat/web_gw_ys
+
+同步
+git pull origin  magic_cat
+
+测试
+dev_appserver.py     --php_executable_path=/usr/bin/php-cgi     $PWD
+
+部署
+gcloud app deploy
 
 
+线上访问地址
+魔力猫隐私政策全球访问地址
+https://aiplay-website.appspot.com/html/index.html
