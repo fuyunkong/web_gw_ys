@@ -8,6 +8,8 @@ http://www.shandagames.com/cn/privacy
 dev_appserver.py     --php_executable_path=/usr/bin/php-cgi     $PWD
 
 
+googgle cloud 控制台
+https://console.cloud.google.com/home/dashboard?project=aiplay-magic-cat&_ga=2.41806626.-1844836570.1542010893
 
 访问地址
 https://aiplay-magic-cat.appspot.com/
