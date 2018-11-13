@@ -7,8 +7,8 @@ div{-webkit-transition: all .3s ease-in-out 0s;-moz-transition: all .3s ease-in-
 .header{ width:100%; margin:0px auto; position:relative; background:#232323;}
 .header .head{ width:1170px; height:90px; margin:0px auto; text-align:left; position:relative;}
 .header .head .head_r{ width:965px; float:right; position:relative;}
-.head .logo{ width:191px; height:52px; float:left; margin-top:19px;}
-.head .logo img{ width:191px; height:52px; vertical-align:top;}
+.head .logo{ width:191px; height:52px; float:left; margin-top:30px;}
+.head .logo img{ width:191px; height:30px; vertical-align:center;}
 .head .nav_m{ width:735px; float:left; margin-left:95px; position:relative;}
 .head .nav{ width:100%; float:left; text-align:left;}
 .head .nav li{ display:inline-block; *display:inline; zoom:1; height:92px; vertical-align:top;}
