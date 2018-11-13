@@ -32,3 +32,10 @@ git pull origin  master
 
 部署
 gcloud app deploy
+不会立即覆盖已存在文件 有延时
+
+
+
+线上访问地址
+爱玩隐私政策全球访问地址
+https://aiplay-magic-cat.appspot.com/html/index.html
