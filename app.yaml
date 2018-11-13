@@ -6,3 +6,5 @@ handlers:
   script: helloworld.php
 - url: /html
   static_dir: html
+- url: /hello2
+  script: helloworld2.php
