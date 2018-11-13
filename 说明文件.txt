@@ -35,7 +35,25 @@ gcloud app deploy
 不会立即覆盖已存在文件 有延时
 
 
+爱玩
+邮箱：pentakillwxf@gmail.com
+公司：合肥爱玩动漫有限公司
+
 
 线上访问地址
 爱玩隐私政策全球访问地址
 https://aiplay-magic-cat.appspot.com/html/index.html
+
+
+
+
+需求
+魔力猫
+MAGIC CAT
+
+邮箱：zmmcoko@gmail.com
+公司：霍尔果斯美影网络科技有限公司
+
+
+
+
